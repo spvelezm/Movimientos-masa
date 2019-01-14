@@ -1,4 +1,0 @@
-flask
-wtforms
-sqlalchemy
-psycopg2-binary
